@@ -1,0 +1,11 @@
+/* Simple styles for the learning site */
+html,body{font-family:Arial,Helvetica,sans-serif;margin:0;padding:0;background:#f7f9fb;color:#111}
+header{background:#2b6cb0;color:#fff;padding:24px}
+header h1{margin:0;font-size:1.6rem}
+nav{background:#fff;border-bottom:1px solid #e2e8f0;padding:12px}
+nav ul{display:flex;gap:12px;list-style:none;margin:0;padding:0}
+nav a{color:#2b6cb0;text-decoration:none}
+main{padding:20px}
+section{margin-bottom:18px}
+pre{background:#0f172a;color:#e6eef8;padding:12px;overflow:auto}
+footer{padding:12px;background:#edf2f7;border-top:1px solid #e2e8f0}
